@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadowkiruu
+- 👋 Hi, I’m @shadowkiruu, my name is Shan
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 
