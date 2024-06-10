@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shadowkiruu, my name is Shan
-- 👀 I’m interested in Web Developing
+- 👋 Hi, my name is Shan
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 
 <!---
