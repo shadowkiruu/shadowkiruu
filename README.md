@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Shan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in Web Development, Data-Driven Project, and Mobile App Development
 
 <!---
 shadowkiruu/shadowkiruu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
